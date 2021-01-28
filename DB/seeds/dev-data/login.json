@@ -1,0 +1,27 @@
+[
+  {
+    "id": "987e170c-cf5f-4602-8873-cfe7a456aeec",
+    "hash": "$2a$10$cdxQEc05zSpXTMaM8mtBeO1.p30Mi03EEhs2ZegIK6F9OiWMLnNvC",
+    "email": "johnsmith@example.com"
+  },
+  {
+    "id": "d4a40aad-1c72-43a2-ad75-33d8c752b02f",
+    "hash": "$2a$10$osa00XIDt1.P02Mxxm/q3u0/vECTw6X2cii/yeB150vDk.eoEuKhW",
+    "email": "jared@example.com"
+  },
+  {
+    "id": "732b73bf-abe4-496b-9ee1-ac2d75dfc470",
+    "hash": "$2a$10$5RH2Xy3NFw8WBYZvUoJrPe3thbEQfj/xiWc5gYf1Q2v31EP//426W",
+    "email": "chris@example.com"
+  },
+  {
+    "id": "35918171-6d40-474f-a761-f8c9ef2398ff",
+    "hash": "$2a$10$NNdK2x30W5QxWyNl8FLybOiQdhgxZcnWPrVrgXX5x6QDLZ36kso2e",
+    "email": "daniel@example.com"
+  },
+  {
+    "id": "621941fe-f19b-430a-8d42-71394b9ecd8e",
+    "hash": "$2a$10$yIB8aVvk/.Dl7YhwmVkssuxmd3jGOQ1DGUcNYDFOXq6l9gzBKfsJC",
+    "email": "sean@example.com"
+  }
+]

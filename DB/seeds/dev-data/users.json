@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2eb1a295-a3d1-48a9-ac3a-db1ed4a982a3",
+    "name": "John Smith",
+    "email": "johnsmith@example.com",
+    "entries": 2,
+    "joined": "2020-02-26 03:37:31.782"
+  },
+  {
+    "id": "7bcc0821-7fd0-4529-be31-41b884f4f57e",
+    "name": "Jared K",
+    "email": "jared@example.com",
+    "entries": 1,
+    "joined": "2020-01-16 03:43:43.559"
+  },
+  {
+    "id": "9b1e02f9-bca1-485d-b967-2345dd208d3a",
+    "name": "Chris P",
+    "email": "chris@example.com",
+    "entries": 3,
+    "joined": "2020-03-10 22:46:56.472"
+  },
+  {
+    "id": "ecd6224d-b3f9-4eec-b5c4-690df0aa9ce7",
+    "name": "Daniel R",
+    "email": "daniel@example.com",
+    "entries": 5,
+    "joined": "2020-05-18 01:23:57.066"
+  },
+  {
+    "id": "5b06df39-1e98-4246-83db-b5182a3bcb1d",
+    "name": "Sean H",
+    "email": "sean@example.com",
+    "entries": 4,
+    "joined": "2020-04-24 04:10:29.281"
+  }
+]
