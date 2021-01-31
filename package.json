@@ -7,6 +7,7 @@
     "start": "node server.js",
     "develop": "nodemon server.js",
     "dbinit": "npx knex init",
+    "start:prod": "SET NODE_ENV=production&&nodemon server.js",
     "db-create-migration-users": "npx knex migrate:make users",
     "db-create-migration-login": "npx knex migrate:make login",
     "db-run-migration": "npx knex migrate:latest",
@@ -30,10 +31,10 @@
     "knex": "^0.21.16",
     "pg": "^8.5.1",
     "uuid": "^8.3.2",
-    "xss-clean": "^0.1.1"
+    "xss-clean": "^0.1.1",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
-    "morgan": "^1.10.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.11.0",
     "eslint-config-airbnb": "^18.2.0",
